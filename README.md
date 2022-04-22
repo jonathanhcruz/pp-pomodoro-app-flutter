@@ -1,16 +1,13 @@
-# pomodoro_app
+# Pomodoro App
 
-A new Flutter project.
+Esta aplicacion fue realizada como practica, con el objetivo de poner a prueba mis habilidades con Flutter. 
 
-## Getting Started
+## 	Inicializar la App
 
-This project is a starting point for a Flutter application.
+Para inicializar este proyecto debes instalar Flutter en tu maquina, puedes ver la documentación [aqui](https://docs.flutter.dev/get-started/install?gclid=Cj0KCQjwpImTBhCmARIsAKr58czTFTvL4vt79qjxh3jTYZQl6vWHs40NIJ6Jdifixs18YxzZgstn9N0aAlaoEALw_wcB&gclsrc=aw.ds)
 
-A few resources to get you started if this is your first Flutter project:
+![Pomodoro App screen 1](./assets/image/scren1.png)
+![Pomodoro App screen 2](./assets/image/scren2.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Alt text](assets/image/scren1.png?raw=true "Title")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
