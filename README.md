@@ -1,6 +1,7 @@
 # Pomodoro App
 
-Esta aplicación fue realizada como práctica, con el objetivo de poner a prueba mis habilidades con Flutter. 
+Esta aplicación fue realizada como mi primera práctica con Flutter y  tiene como objetivo poner a prueba mis habilidades.
+
 
 ## 	Inicializar la App
 
@@ -17,4 +18,7 @@ De la misma forma tendrás 3 botones los cuales te permitirán manejar la app.
 | ----------- | ----------- |
 | Restart | Te permite restaurar el tiempo de la sesión que tengas iniciada. |
 | Stop -  Play  | te permite detener el contador o iniciarlo. |
-| Next | Te permite saltar a la siguiente sesión.|
+| Next | Te permite saltar a la siguiente sesión.
+
+
+[@maureDev](https://github.com/mouredev) Gracias por la motivacion.
